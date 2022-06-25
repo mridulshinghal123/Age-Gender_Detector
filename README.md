@@ -19,7 +19,7 @@ Simple Age and Gender Detector using Machine Learning
 9. View result
 
 # Some sample outputs are given below:
-![Sample output 1](https://github.com/mridulshinghal123/Age-Gender_Detector/blob/main/2022-06-25%20(1).png)
-![Sample output 2](https://github.com/mridulshinghal123/Age-Gender_Detector/blob/main/2022-06-25%20(2).png)
-![Sample output 3](https://github.com/mridulshinghal123/Age-Gender_Detector/blob/main/2022-06-25%20(3).png)
-![Sample output 4](https://github.com/mridulshinghal123/Age-Gender_Detector/blob/main/2022-06-25%20(4).png)
+1. [Sample output 1](https://github.com/mridulshinghal123/Age-Gender_Detector/blob/main/2022-06-25%20(1).png)
+2. [Sample output 2](https://github.com/mridulshinghal123/Age-Gender_Detector/blob/main/2022-06-25%20(2).png) 
+3. [Sample output 3](https://github.com/mridulshinghal123/Age-Gender_Detector/blob/main/2022-06-25%20(3).png)
+4. [Sample output 4](https://github.com/mridulshinghal123/Age-Gender_Detector/blob/main/2022-06-25.png)
