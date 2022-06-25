@@ -13,3 +13,7 @@ Simple Age and Gender Detector using Machine Learning
 3. Extract the dtaset to your repository folder
 4. Open the [Model jupyter notebook](https://github.com/mridulshinghal123/Age-Gender_Detector/blob/main/Untitled-4.ipynb)
 5. Run the notebook.
+6. Run the [Untitled-5.ipynb](https://github.com/mridulshinghal123/Age-Gender_Detector/blob/main/Untitled-5.ipynb) file
+7. Upload the image you want to detect
+8. Click on detcet button
+9. View result
